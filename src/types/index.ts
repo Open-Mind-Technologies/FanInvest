@@ -19,6 +19,7 @@ export interface RegisterData {
   password: string;
   confirmPassword: string;
   role: 'fan' | 'artist';
+  terms: boolean; 
 }
 
 export interface AuthResponse {
