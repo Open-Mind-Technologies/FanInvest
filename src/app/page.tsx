@@ -230,8 +230,8 @@ export default function HomePage() {
                   <p className="text-purple-100">Cantora Independente</p>
                 </div>
                 <p className="text-lg mb-6">
-                  "Desde que comecei a usar o FanInvest, consegui triplicar minha renda 
-                  musical e criar uma conexão real com meus fãs. É incrível!"
+                  &quot;Desde que comecei a usar o FanInvest, consegui triplicar minha renda 
+                  musical e criar uma conexão real com meus fãs. É incrível!&quot;
                 </p>
                 <div className="flex items-center space-x-1">
                   {[1,2,3,4,5].map((star) => (
